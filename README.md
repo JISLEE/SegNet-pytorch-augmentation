@@ -11,6 +11,9 @@ This repository is based on https://github.com/say4n/pytorch-segnet
 This is an implementaion of data augmentation including flip and random crop. In order to solve the data imbalance problem of Pascal VOC 2012 dataset, I added thresholding to filter out a background pixel dominent images. 
 
 
+Download best model here: https://drive.google.com/file/d/1_x21hdWCusYWKxiVEItnD4XQZ3kkFin_/view?usp=sharing
+
+
 
 # Results
 
