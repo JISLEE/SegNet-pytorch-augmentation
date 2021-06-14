@@ -14,6 +14,9 @@ This is an implementaion of data augmentation including flip and random crop. In
 
 # Results
 
+<img width="645" alt="Screen Shot 2021-06-14 at 10 43 16 PM" src="https://user-images.githubusercontent.com/49095563/121902149-0471fb80-cd62-11eb-88d5-6bbac6aab5f3.png">
+
+
 ![quality](https://user-images.githubusercontent.com/49095563/121897392-48163680-cd5d-11eb-801a-f736c70c811b.png)
 
 
